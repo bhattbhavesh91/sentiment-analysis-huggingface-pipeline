@@ -1,8 +1,14 @@
 # Sentiment Analysis with HuggingFace Transformers Pipeline with 5 Lines of Python code
 
 ## To view the video
-* [Click here](https://youtu.be/gpyl4N6Txo8)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=gpyl4N6Txo8" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/gpyl4N6Txo8?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Sentiment Analysis with HuggingFace Transformers Pipeline with 5 Lines of Python code
 ](http://img.youtube.com/vi/gpyl4N6Txo8/0.jpg)](http://www.youtube.com/watch?v=gpyl4N6Txo8)
